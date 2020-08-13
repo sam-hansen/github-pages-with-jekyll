@@ -1,12 +1,11 @@
 title: A journey into continued learning...
 author: Sam Hansen
 email: sam.hans24@yahoo.com
-description: > A demo blog while I'm learning more about github features, specifically github pages,
-  as well as jekyll.
+description: > A demo blog while I'm learning more about github features, specifically github pages, as well as jekyll.
 
 # social links
 twitter_username: samuelmhansen
-github_username:  sam-hansen
+github_username: sam-hansen
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: false
 theme: minima
