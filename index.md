@@ -1,3 +1,9 @@
+---
+title: "Welcome-To-My-Blog"
+layout: default
+date: 2020-08-13
+---
+
 # Welcome to my blog!
 
 > Sam Hansen
