@@ -1,3 +1,8 @@
-# Welcome to my blog
+# Welcome to my blog!
 
-I'm glad you are here. I plan to talk about ...
+> Sam Hansen
+
+I'm currently learning about all the cool _features_ of [Github] and [Jekyll]!
+
+[Github]:https://github.com
+[Jekyll]:https://https://jekyllrb.com/
