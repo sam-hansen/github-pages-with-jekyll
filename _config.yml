@@ -1,16 +1,12 @@
 title: A journey into continued learning...
 author: Sam Hansen
 email: sam.hans24@yahoo.com
-description: > # this means to ignore newlines until "baseurl:"
-  A demo blog while I'm learning more about github features, specifically github pages,
+description: > A demo blog while I'm learning more about github features, specifically github pages,
   as well as jekyll.
 
-baseurl: https://sam-hansen.github.io/github-pages-with-jekyll
-theme: minima
-  
 # social links
 twitter_username: samuelmhansen
 github_username:  sam-hansen
 
-show_excerpts: true # set to false to remove excerpts on the homepage
-
+show_excerpts: false # set to false to remove excerpts on the homepage
+theme: minima
