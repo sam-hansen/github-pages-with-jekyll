@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "'Iosevka Medium', 'VictorMono NF SemiBold',Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'Iosevka Medium', 'VictorMono NF SemiBold', Consolas, monospace",
     "editor.fontLigatures": true,
     "editor.fontSize": 14
 }
