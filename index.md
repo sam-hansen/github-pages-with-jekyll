@@ -3,6 +3,7 @@ title: "Home Page"
 date: 2020-08-13
 layout: default
 ---
+
 # Welcome to my blog!
 
 > Sam Hansen

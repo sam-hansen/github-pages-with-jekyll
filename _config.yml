@@ -5,7 +5,11 @@ description: > A demo blog while I'm learning more about github features, specif
 
 # social links
 twitter_username: samuelmhansen
+<<<<<<< HEAD
 github_username:  sam-hansen
+=======
+github_username: sam-hansen
+>>>>>>> c18aeb0233b3d20a4d7f41e35ec9d2545e4ae105
 
 show_excerpts: false
 theme: minima
